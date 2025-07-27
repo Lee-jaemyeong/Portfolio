@@ -97,7 +97,7 @@
 
 ### 🔌 API / 비동기 통신
 <details>
-  <summary><img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" /> <img src="https://img.shields.io/badge/Async/Await-2496ED?style=for-the-badge&logo=javascript&logoColor=white" /></summary>
+  <summary><img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" /></summary>
   • <Strong>RESTful API 설계 및 프론트엔드(React, JSP 등)와의 연동 구현 가능</Strong><br/>
   • <Strong>공공 데이터(Open API) 활용 프로젝트 수행 및 데이터 연동 처리</Strong>: 1차 프로젝트 Kakao Login, Naver Mail API / 2차 프로젝트 Kakao Map API / 3차 프로젝트 Iamport 결제 API 적용<br/>
   • <Strong>Axios 기반 비동기 통신 구현</Strong>: 프로젝트에서 백엔드 API와의 통신 시 에러 핸들링 및 사용자 친화적 오류 메시지 제공<br/>
