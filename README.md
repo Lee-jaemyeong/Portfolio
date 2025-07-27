@@ -106,7 +106,7 @@
 
 ### 🚀 배포 및 운영 환경
 <details>
-  <summary><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" /></summary>
+  <summary><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" /></summary>
   • <Strong>클라우드 배포 경험</Strong>: AWS EC2, S3를 활용한 서버 및 프론트엔드 배포 경험 보유<br/>
   • <Strong>배포 환경 구성</Strong>: Nginx를 활용한 정적 파일 서빙 및 리버스 프록시 설정을 통한 안정적인 운영 환경 구축<br/>
   • <Strong>CI/CD 구성 경험</Strong>: GitHub Actions를 활용한 자동 빌드·배포 파이프라인 구성<br/>
