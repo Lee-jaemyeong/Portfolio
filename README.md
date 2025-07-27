@@ -24,15 +24,15 @@
 ### 🔹 Back-End
 <details>
   <summary>JAVA</summary>
-   • <Strong>실제 서비스 운영을 위한 개발환경 구축</Strong>: JDK 및 Eclipse IDE를 활용해 효율적인 빌드·배포 환경을 구성하고 문제 발생 시 직접 관리
-   • <Strong>OOP 기반의 유저/예약 기능 설계</Strong>: 클래스 분리와 책임 중심 구조로 회원·예약 기능을 안정적으로 구현하며 유지보수 용이성 확보
-   • <Strong>오버라이딩/오버로딩을 통한 유연한 기능 확장</Strong>: 다양한 사용자 동작에 맞춰 동적 메서드 처리로 서비스 흐름 제어 및 코드 가독성 향상
-   • <Strong>접근 제한자를 통한 보안 중심 설계</Strong>: 사용자 민감 정보 보호를 위한 private/protected 기반 필드 설계 및 인증 처리 적용
-   • <Strong>추상화 구조 설계로 도메인 확장 용이</Strong>: 사용자·결제 등 도메인에 인터페이스 적용하여 확장 가능한 비즈니스 로직 구성
-   • <Strong>페이징 구현을 통한 사용자 중심 UI 개선</Strong>: 게시판 및 목록 페이지 출력 시 Java Math API 기반 페이징 로직으로 UX 향상
-   • <Strong>Java API 활용을 통한 기능 완성도 확보</Strong>: Naver 이메일, Kakao 소셜 로그인, 예약시간 제어 등 실무 API 연동 및 에러 대응
-   • <Strong>Collections 활용으로 대량 데이터 처리 최적화</Strong>: 회원·예약·결제 데이터에 대해 List, Map 기반 효율적 처리 및 조건별 출력 구현
-   • <Strong>스레드 기반 동시성 이해 및 트랜잭션 설계</Strong>: 결제 로직에 대한 상태 동기화 구조 설계로 중복 처리 방지 및 데이터 무결성 확보
+   • <Strong>실제 서비스 운영을 위한 개발환경 구축</Strong>: JDK 및 Eclipse IDE를 활용해 효율적인 빌드·배포 환경을 구성하고 문제 발생 시 직접 관리<br/>
+   • <Strong>OOP 기반의 유저/예약 기능 설계</Strong>: 클래스 분리와 책임 중심 구조로 회원·예약 기능을 안정적으로 구현하며 유지보수 용이성 확보<br/>
+   • <Strong>오버라이딩/오버로딩을 통한 유연한 기능 확장</Strong>: 다양한 사용자 동작에 맞춰 동적 메서드 처리로 서비스 흐름 제어 및 코드 가독성 향상<br/>
+   • <Strong>접근 제한자를 통한 보안 중심 설계</Strong>: 사용자 민감 정보 보호를 위한 private/protected 기반 필드 설계 및 인증 처리 적용<br/>
+   • <Strong>추상화 구조 설계로 도메인 확장 용이</Strong>: 사용자·결제 등 도메인에 인터페이스 적용하여 확장 가능한 비즈니스 로직 구성<br/>
+   • <Strong>페이징 구현을 통한 사용자 중심 UI 개선</Strong>: 게시판 및 목록 페이지 출력 시 Java Math API 기반 페이징 로직으로 UX 향상<br/>
+   • <Strong>Java API 활용을 통한 기능 완성도 확보</Strong>: Naver 이메일, Kakao 소셜 로그인, 예약시간 제어 등 실무 API 연동 및 에러 대응<br/>
+   • <Strong>Collections 활용으로 대량 데이터 처리 최적화</Strong>: 회원·예약·결제 데이터에 대해 List, Map 기반 효율적 처리 및 조건별 출력 구현<br/>
+   • <Strong>스레드 기반 동시성 이해 및 트랜잭션 설계</Strong>: 결제 로직에 대한 상태 동기화 구조 설계로 중복 처리 방지 및 데이터 무결성 확보<br/>
    • <Strong>네트워크 프로그래밍으로 외부 API 안정 연동</Strong>: Kakao, 아임포트 등 다양한 API와의 통신 오류에 대한 예외처리 및 응답 흐름 구성
 </details>
 
