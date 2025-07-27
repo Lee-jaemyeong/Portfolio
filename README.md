@@ -54,16 +54,9 @@
 
 ---
 
-## 📫 Contact & Blog
-- 📧 Email: your.email@example.com  
-- 🌐 Portfolio Site: [gptonline.ai/ko](https://gptonline.ai/ko/)  
-- 📝 Blog: [Velog](https://velog.io/@yourusername) | [Tistory](https://yourblog.tistory.com)  
-- 💼 LinkedIn: [링크드인 프로필](https://linkedin.com/in/yourprofile)
+## 📫 Contact
+- 📧 Email: kinglee98@naver.com  
+- 🎥 youtube : https://www.youtube.com/@%EC%9D%B4%EC%9E%AC%EB%AA%85-z1w
 
 ---
 
-## 🔧 GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자명&show_icons=true&theme=gruvbox)
-
----
