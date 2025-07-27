@@ -13,7 +13,7 @@
 
 ## 💡 Tech Stack
 
-### 🔹 Front-End
+### 🌐 Front-End
 <details>
   <summary><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></summary>
   • <Strong>컴포넌트 기반 설계</Strong>: React를 활용한 UI 컴포넌트 구조 설계 및 재사용 가능한 구성 구현<br/>
@@ -41,7 +41,7 @@
 </details>
 
 
-### 🔹 Back-End
+### 🌐 Back-End
 <details>
   <summary><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /></summary>
    • <Strong>실제 서비스 운영을 위한 개발환경 구축</Strong>: JDK 및 Eclipse IDE를 활용해 효율적인 빌드·배포 환경을 구성하고 문제 발생 시 직접 관리<br/>
