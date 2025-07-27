@@ -62,7 +62,7 @@
 
 ## 📫 Contact
 - 📧 Email: kinglee98@naver.com  
-- 🎥 youtube : https://www.youtube.com/@%EC%9D%B4%EC%9E%AC%EB%AA%85-z1w
+- 🎥 youtube : [프로젝트 영상 보러가기](https://www.youtube.com/@%EC%9D%B4%EC%9E%AC%EB%AA%85-z1w)
 
 ---
 
