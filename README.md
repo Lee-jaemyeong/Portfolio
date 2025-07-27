@@ -115,7 +115,7 @@
 
 ### 👨‍💻 개발 환경 및 협업
 <details>
-  <summary><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></summary>
+  <summary><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></summary>
   • <Strong>개발 환경 세팅</Strong>: VSCode 기반 개발환경 구성 및 ESLint, Prettier 적용을 통한 코드 스타일 일관성 유지<br/>
   • <Strong>버전 관리 협업</Strong>: Git을 활용한 협업 및 Git Flow 브랜치 전략을 통한 체계적인 코드 관리 실무 경험<br/>
   • <Strong>협업 도구 활용</Strong>: Notion, Google Sheets 등 다양한 협업 도구를 활용하여 팀 간 소통 및 업무 생산성 향상
