@@ -68,20 +68,57 @@
   • <Strong>접근 제어</Strong>: 사용자 등급별 권한 관리 및 접근 제어 설정으로 관리자 지정, 로그인 유저 글쓰기 기능 구현
 </details>
 <details>
-  <summary><img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white" /></summary>
+  <summary><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></summary>
   • <Strong>웹 서버 환경 구성</Strong>: JDK 및 Tomcat 기반 JSP 개발 환경 구축 및 디버깅 경험<br/>
   • <Strong>디자인 패턴 활용</Strong>: MVC1, MVC2 모델을 적용한 유저·글·예약·결제 기능 구현<br/>
   • <Strong>Front Controller 패턴 적용</Strong>: 회원가입, 로그인, 게시판, 예약, 결제 CRUD 기능 구성<br/>
   • <Strong>세션 관리</Strong>: 로그인 유지 및 사용자 상태 유지를 위한 Session 활용<br/>
   • <Strong>View-Logic 분리</Strong>: EL, JSTL을 활용하여 JSP에서 Java 코드와 화면을 명확히 분리
 </details>
-
-### 🔹 Etc
 <details>
-  <summary><strong>📌 메인 언어 & 기본 도구</strong></summary>
-  • Node.js 1.0.0 <br/>
-  • React 18.3.1 <br/>
-  • JavaScript
+  <summary><img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white" /></summary>
+  • <Strong>기본 문법 숙련</Strong>: 변수, 조건문, 반복문, 함수, 클래스 등 Python의 기본 문법과 OOP(Object Oriented Programming) 이해<br/>
+  • <Strong>파일 입출력 및 예외 처리</Strong>: 다양한 파일 형식(txt, csv 등) 처리 및 예외 상황에 대한 처리<br/>
+  • <Strong>웹 크롤링 경험</Strong>: requests, BeautifulSoup을 활용한 HTML 파싱 및 데이터 수집 자동화구현
+</details>
+
+### 🗄️ Database
+<details>
+  <summary><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></summary>
+  • <Strong>MySQL 서버 구축</Strong>: DB 시스템의 설치, 설정, 관리 등 운영 전반에 능숙<br/>
+  • <Strong>데이터 모델링 설계</Strong>: ERD에 대한 이해를 바탕으로 효율적인 데이터 구조 설계 및 구현<br/>
+  • <Strong>관계형 데이터베이스 구성</Strong>: 기본키(PK), 외래키(FK)를 활용한 무결성 유지 및 테이블 간 관계 정의 가능<br/>
+  • <Strong>테이블 설계 최적화</Strong>: CRUD 기능에 적합한 데이터 타입 선정 및 스키마 설계 가능<br/>
+  • <Strong>DDL/DML 활용</Strong>: 데이터 정의어 및 조작어에 대한 이해를 바탕으로 효율적인 DB 작업 수행<br/>
+  • <Strong>고급 SQL 쿼리</Strong>: Subquery 및 Join을 활용하여 일괄 예약/결제 등 복잡한 데이터 조회 쿼리 작성<br/>
+  • <Strong>트랜잭션 처리 적용</Strong>: 예약 생성·상태 변경·삭제, 결제 등록·상태 변경·삭제 등의 기능에 트랜잭션을 적용하여 데이터 무결성 유지<br/>
+  • <Strong>SQL 테스트 및 검증</Strong>: 쿼리 실행을 통해 설계된 DB와 비즈니스 로직 간의 연동 검증 및 예외 사전 발견 가능
+</details>
+
+### 🔌 API / 비동기 통신
+<details>
+  <summary><img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" /> <img src="https://img.shields.io/badge/Async/Await-2496ED?style=for-the-badge&logo=javascript&logoColor=white" /></summary>
+  • <Strong>RESTful API 설계 및 프론트엔드(React, JSP 등)와의 연동 구현 가능</Strong><br/>
+  • <Strong>공공 데이터(Open API) 활용 프로젝트 수행 및 데이터 연동 처리</Strong>: 1차 프로젝트 Kakao Login, Naver Mail API / 2차 프로젝트 Kakao Map API / 3차 프로젝트 Iamport 결제 API 적용<br/>
+  • <Strong>Axios 기반 비동기 통신 구현</Strong>: 프로젝트에서 백엔드 API와의 통신 시 에러 핸들링 및 사용자 친화적 오류 메시지 제공<br/>
+  • <Strong>JWT 인증/인가 처리</Strong>: Spring Boot + Spring Security를 활용한 JWT 기반 인증 체계 구축으로 1차 프로젝트 유저 로그인 기능 구현
+</details>
+
+### 🚀 배포 및 운영 환경
+<details>
+  <summary><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" /></summary>
+  • <Strong>클라우드 배포 경험</Strong>: AWS EC2, S3를 활용한 서버 및 프론트엔드 배포 경험 보유<br/>
+  • <Strong>배포 환경 구성</Strong>: Nginx를 활용한 정적 파일 서빙 및 리버스 프록시 설정을 통한 안정적인 운영 환경 구축<br/>
+  • <Strong>CI/CD 구성 경험</Strong>: GitHub Actions를 활용한 자동 빌드·배포 파이프라인 구성<br/>
+  • <Strong>환경 변수 관리</Strong>: .env 파일 및 환경별 변수 설정을 통해 보안성 강화 및 유지보수성 향상
+</details>
+
+### 👨‍💻 개발 환경 및 협업
+<details>
+  <summary><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></summary>
+  • <Strong>개발 환경 세팅</Strong>: VSCode 기반 개발환경 구성 및 ESLint, Prettier 적용을 통한 코드 스타일 일관성 유지<br/>
+  • <Strong>버전 관리 협업</Strong>: Git을 활용한 협업 및 Git Flow 브랜치 전략을 통한 체계적인 코드 관리 실무 경험<br/>
+  • <Strong>협업 도구 활용</Strong>: Notion, Google Sheets 등 다양한 협업 도구를 활용하여 팀 간 소통 및 업무 생산성 향상
 </details>
 
 ---
