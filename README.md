@@ -14,24 +14,28 @@
 ## 💡 Tech Stack
 
 ### 🔹 Front-End
-![React](https://img.shields.io/badge/React-18.2.0-blue)
-![Next.js](https://img.shields.io/badge/Next.js-15.3.5-black)
-![Styled Components](https://img.shields.io/badge/styled--components-5.3.11-pink)
-![Ant Design](https://img.shields.io/badge/Antd-4.23.16-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+<details>
+  <summary><strong>📌 메인 언어 & 기본 도구</strong></summary>
+  • Node.js 1.0.0 <br/>
+  • React 18.3.1 <br/>
+  • JavaScript
+</details>
 
 ### 🔹 Back-End
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-2.7.14-brightgreen)
-![Java](https://img.shields.io/badge/Java-11-orange)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
-![Redis](https://img.shields.io/badge/Redis-2.7.14-red)
-![JPA](https://img.shields.io/badge/JPA-2.7.14-lightgrey)
+<details>
+  <summary><strong>![Java](https://img.shields.io/badge/Java?style=flat&logo=java)</strong></summary>
+  • Node.js 1.0.0 <br/>
+  • React 18.3.1 <br/>
+  • JavaScript
+</details>
 
 ### 🔹 Etc
-![OpenAI](https://img.shields.io/badge/OpenAI-2.3.0-black)
-![Kakao Map API](https://img.shields.io/badge/Kakao_Map-API-yellow)
-![JWT](https://img.shields.io/badge/JWT-0.1.15-orange)
-![PortOne](https://img.shields.io/badge/PortOne-API-red)
+<details>
+  <summary><strong>📌 메인 언어 & 기본 도구</strong></summary>
+  • Node.js 1.0.0 <br/>
+  • React 18.3.1 <br/>
+  • JavaScript
+</details>
 
 ---
 
