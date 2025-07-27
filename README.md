@@ -67,5 +67,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자명&show_icons=true&theme=gruvbox)
 
 ---
-
-> 이 포트폴리오는 [GPT Online (https://gptonline.ai/ko/)]을 통해 제작되었습니다.
