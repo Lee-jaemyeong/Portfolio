@@ -23,7 +23,7 @@
 
 ### 🔹 Back-End
 <details>
-  <summary><strong>(https://img.shields.io/java/:java)</strong></summary>
+  <summary><strong>![java](https://img.shields.io/java/:java)</strong></summary>
   • Node.js 1.0.0 <br/>
   • React 18.3.1 <br/>
   • JavaScript
