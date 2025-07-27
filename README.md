@@ -47,6 +47,14 @@
   • <Strong>보안 처리</Strong>: Spring Security를 활용한 로그인 인증 및 권한 인가 기능 구현
   • <Strong>접근 제어</Strong>: 사용자 등급별 권한 관리 및 접근 제어 설정으로 관리자 지정, 로그인 유저 글쓰기 기능 구현
 </details>
+<details>
+  <summary><img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white" /></summary>
+  • <Strong>웹 서버 환경 구성</Strong>: JDK 및 Tomcat 기반 JSP 개발 환경 구축 및 디버깅 경험
+  • <Strong>디자인 패턴 활용</Strong>: MVC1, MVC2 모델을 적용한 유저·글·예약·결제 기능 구현
+  • <Strong>Front Controller 패턴 적용</Strong>: 회원가입, 로그인, 게시판, 예약, 결제 CRUD 기능 구성
+  • <Strong>세션 관리</Strong>: 로그인 유지 및 사용자 상태 유지를 위한 Session 활용
+  • <Strong>View-Logic 분리</Strong>: EL, JSTL을 활용하여 JSP에서 Java 코드와 화면을 명확히 분리
+</details>
 
 ### 🔹 Etc
 <details>
