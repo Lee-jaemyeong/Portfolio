@@ -199,7 +199,7 @@
 - **협업 경험**: 팀원들과의 요구사항 정리 및 문서화 주도, git 병합 오류 해결
 - **향후 다짐**: 설계부터 탄탄히 다져 안정성과 유연성을 갖춘 개발자가 되고 싶습니다.
 
-#### 📺 시연 영상 (이미지 클릭시 유튜브로 이동됩니다.)
+### 📺 시연 영상 (이미지 클릭시 유튜브로 이동됩니다.)
 
 [![Watch the video](https://img.youtube.com/vi/F6DzPczeOM4/hqdefault.jpg)](https://www.youtube.com/watch?v=F6DzPczeOM4&t=4s)
 
@@ -252,7 +252,7 @@
 - **피드백 수용**: 초기 설계 미흡 지적 → ERD 보완 및 코드 리뷰 방식으로 충돌 최소화
 - **향후 다짐**: 기능 단순 구현만이 아닌 사용자의 경험을 고려해 편의성과 안정성을 더욱 개선하고 싶습니다.
 
-#### 📺 시연 영상 (이미지 클릭시 유튜브로 이동됩니다.)
+### 📺 시연 영상 (이미지 클릭시 유튜브로 이동됩니다.)
 
 [![Watch the video](https://img.youtube.com/vi/qy8u18SyypM/hqdefault.jpg)](https://www.youtube.com/watch?v=qy8u18SyypM&t=7s)
 
@@ -305,7 +305,7 @@
 - **피드백 수용**: 사용자 편의성 개선 → 일괄 예약 및 결제 기능 도입
 - **향후 다짐**: 안정성을 갖추고 실제 서비스 운영을 고려한 설계및 구현을 더욱 전문화하고 싶습니다.
 
-#### 📺 시연 영상 (이미지 클릭시 유튜브로 이동됩니다.)
+### 📺 시연 영상 (이미지 클릭시 유튜브로 이동됩니다.)
 
 [![Watch the video](https://img.youtube.com/vi/nXx9EeZ0TFE/hqdefault.jpg)](https://www.youtube.com/watch?v=nXx9EeZ0TFE&t=8s)
 
