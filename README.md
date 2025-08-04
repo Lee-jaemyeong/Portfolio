@@ -33,7 +33,7 @@
   • <Strong>Form 유효성 검증</Strong>: 사용자 입력 처리 및 폼 검증 로직 구현으로 데이터 신뢰성 확보
 </details>
 <details>
-  <summary><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /></summary>
+  <summary><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/jQuery 3.7.1-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /></summary>
    • <Strong>유효성 검사 구현</Strong>: 정규식을 활용하여 사용자 입력값에 대한 검증 로직 구성<br/>
    • <Strong>비동기 통신 처리</Strong>: Ajax를 활용하여 아이디 중복 검사 및 실시간 검색 기능 구현<br/>
    • <Strong>데이터 포맷 처리</Strong>: JSON, XML 형태의 데이터를 파싱하여 필요한 정보 추출 및 활용 가능<br/>
@@ -50,7 +50,7 @@
 
 ### 🌐 Back-End
 <details>
-  <summary><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /></summary>
+  <summary><img src="https://img.shields.io/badge/Java 11-007396?style=for-the-badge&logo=openjdk&logoColor=white" /></summary>
    • <Strong>실제 서비스 운영을 위한 개발환경 구축</Strong>: JDK 및 Eclipse IDE를 활용해 효율적인 빌드·배포 환경을 구성하고 문제 발생 시 직접 관리<br/>
    • <Strong>OOP 기반의 유저/예약 기능 설계</Strong>: 클래스 분리와 책임 중심 구조로 회원·예약 기능을 안정적으로 구현하며 유지보수 용이성 확보<br/>
    • <Strong>오버라이딩/오버로딩을 통한 유연한 기능 확장</Strong>: 다양한 사용자 동작에 맞춰 동적 메서드 처리로 서비스 흐름 제어 및 코드 가독성 향상<br/>
@@ -63,7 +63,7 @@
    • <Strong>네트워크 프로그래밍으로 외부 API 안정 연동</Strong>: Kakao, 아임포트 등 다양한 API와의 통신 오류에 대한 예외처리 및 응답 흐름 구성
 </details>
 <details>
-  <summary><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /></summary>
+  <summary><img src="https://img.shields.io/badge/Spring 2.7.14-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /></summary>
   • <Strong>프로젝트 환경 구성</Strong>: Spring 프레임워크 기반 프로젝트 환경 설정 및 초기 세팅을 효율적으로 수행<br/>
   • <Strong>핵심 모듈 활용</Strong>: AOP, Transaction, Task Scheduler 등을 활용한 기능 개발 경험 보유<br/>
   • <Strong>IoC/DI 구성</Strong>: Bean 설정·관리를 통한 유연한 구조 설계 가능<br/>
