@@ -36,7 +36,8 @@
 
 ---
 
-## 💡 Tech Stack [클릭시 내용 확인 가능합니다.]
+## 💡 Tech Stack 
+> [클릭시 내용 확인 가능합니다.]
 
 ### 🌐 Front-End
 <details open>
