@@ -40,6 +40,7 @@
   • <Strong>웹 퍼블리싱 역량</Strong>: HTML과 CSS의 구조에 대한 기본 이해를 바탕으로 레이아웃 수정 및 스타일 조정 가능
 </details>
 
+---
 
 ### 🌐 Back-End
 <details>
@@ -82,6 +83,8 @@
   • <Strong>View-Logic 분리</Strong>: EL, JSTL을 활용하여 JSP에서 Java 코드와 화면을 명확히 분리
 </details>
 
+---
+
 ### 🗄️ Database
 <details>
   <summary><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></summary>
@@ -95,6 +98,8 @@
   • <Strong>SQL 테스트 및 검증</Strong>: 쿼리 실행을 통해 설계된 DB와 비즈니스 로직 간의 연동 검증 및 예외 사전 발견 가능
 </details>
 
+---
+
 ### 🔌 API / 비동기 통신
 <details>
   <summary><img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" /></summary>
@@ -104,6 +109,8 @@
   • <Strong>JWT 인증/인가 처리</Strong>: Spring Boot + Spring Security를 활용한 JWT 기반 인증 체계 구축으로 1차 프로젝트 유저 로그인 기능 구현
 </details>
 
+---
+
 ### 🚀 배포 및 운영 환경
 <details>
   <summary><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" /></summary>
@@ -112,6 +119,8 @@
   • <Strong>CI/CD 구성 경험</Strong>: GitHub Actions를 활용한 자동 빌드·배포 파이프라인 구성<br/>
   • <Strong>환경 변수 관리</Strong>: .env 파일 및 환경별 변수 설정을 통해 보안성 강화 및 유지보수성 향상
 </details>
+
+---
 
 ### 👨‍💻 개발 환경 및 협업
 <details>
