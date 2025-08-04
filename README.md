@@ -40,7 +40,7 @@
   • <Strong>웹 퍼블리싱 역량</Strong>: HTML과 CSS의 구조에 대한 기본 이해를 바탕으로 레이아웃 수정 및 스타일 조정 가능
 </details>
 
---
+---
 
 ### 🌐 Back-End
 <details>
