@@ -21,7 +21,7 @@
 
 ### 🌐 Front-End
 <details>
-  <summary><img src="https://img.shields.io/badge/React18.3.1-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></summary>
+  <summary><img src="https://img.shields.io/badge/React 18.3.1-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></summary>
   • <Strong>컴포넌트 기반 설계</Strong>: React를 활용한 UI 컴포넌트 구조 설계 및 재사용 가능한 구성 구현<br/>
   • <Strong>상태 관리</Strong>: useState, useEffect, useReducer, useContext 과 같은 Hook을 활용한 효율적인 상태 관리 구현<br/>
   • <Strong>데이터 흐름 제어</Strong>: props와 state에 대한 이해를 바탕으로 예측 가능한 상태 흐름을 구성하여 안정적인 애플리케이션 구현<br/>
