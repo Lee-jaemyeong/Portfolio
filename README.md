@@ -93,7 +93,7 @@
 
 ### 🗄️ Database
 <details>
-  <summary><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></summary>
+  <summary><img src="https://img.shields.io/badge/MySQL 8.0.33-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></summary>
   • <Strong>MySQL 서버 구축</Strong>: DB 시스템의 설치, 설정, 관리 등 운영 전반에 능숙<br/>
   • <Strong>데이터 모델링 설계</Strong>: ERD에 대한 이해를 바탕으로 효율적인 데이터 구조 설계 및 구현<br/>
   • <Strong>관계형 데이터베이스 구성</Strong>: 기본키(PK), 외래키(FK)를 활용한 무결성 유지 및 테이블 간 관계 정의 가능<br/>
@@ -108,7 +108,7 @@
 
 ### 🔌 API / 비동기 통신
 <details>
-  <summary><img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" /></summary>
+  <summary><img src="https://img.shields.io/badge/REST%20API 2.7.14-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Axios 1.9.0-5A29E4?style=for-the-badge&logo=axios&logoColor=white" /></summary>
   • <Strong>RESTful API 설계 및 프론트엔드(React, JSP 등)와의 연동 구현 가능</Strong><br/>
   • <Strong>공공 데이터(Open API) 활용 프로젝트 수행 및 데이터 연동 처리</Strong>: 1차 프로젝트 Kakao Login, Naver Mail API / 2차 프로젝트 Kakao Map API / 3차 프로젝트 Iamport 결제 API 적용<br/>
   • <Strong>Axios 기반 비동기 통신 구현</Strong>: 프로젝트에서 백엔드 API와의 통신 시 에러 핸들링 및 사용자 친화적 오류 메시지 제공<br/>
@@ -119,7 +119,7 @@
 
 ### 🚀 배포 및 운영 환경
 <details>
-  <summary><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" /></summary>
+  <summary><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Tomcat 9.0.78-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" /></summary>
   • <Strong>클라우드 배포 경험</Strong>: AWS EC2, S3를 활용한 서버 및 프론트엔드 배포 경험 보유<br/>
   • <Strong>배포 환경 구성</Strong>: Nginx를 활용한 정적 파일 서빙 및 리버스 프록시 설정을 통한 안정적인 운영 환경 구축<br/>
   • <Strong>CI/CD 구성 경험</Strong>: GitHub Actions를 활용한 자동 빌드·배포 파이프라인 구성<br/>
