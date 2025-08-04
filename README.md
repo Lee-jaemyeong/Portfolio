@@ -11,6 +11,12 @@
 
 ---
 
+## 📫 Contact
+- 📧 Email: kinglee98@naver.com  
+- 🎥 youtube : [프로젝트 영상 보러가기](https://www.youtube.com/@%EC%9D%B4%EC%9E%AC%EB%AA%85-z1w)
+
+---
+
 ## 💡 Tech Stack
 
 ### 🌐 Front-End
@@ -156,10 +162,3 @@
 - [프로젝트 보기](https://github.com/Lee-jaemyeong/TeamProject-TripPaw)
 
 ---
-
-## 📫 Contact
-- 📧 Email: kinglee98@naver.com  
-- 🎥 youtube : [프로젝트 영상 보러가기](https://www.youtube.com/@%EC%9D%B4%EC%9E%AC%EB%AA%85-z1w)
-
----
-
