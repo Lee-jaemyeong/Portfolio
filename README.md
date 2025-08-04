@@ -278,6 +278,8 @@
 **🔹프로젝트로 이동하기**
 - [프로젝트 보기](https://github.com/Lee-jaemyeong/TeamProject-SSDAM)
 
+---
+
 ### 🐶 트립포우(TripPaw)
 > Spring, React 기반 반려동물 동반 여행 경로 추천 & 예약 플랫폼
 
