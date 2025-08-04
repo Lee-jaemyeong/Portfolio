@@ -39,7 +39,7 @@
 ## 💡 Tech Stack
 
 ### 🌐 Front-End
-<details>
+<details open>
   <summary><img src="https://img.shields.io/badge/React 18.3.1-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></summary>
   • <Strong>컴포넌트 기반 설계</Strong>: React를 활용한 UI 컴포넌트 구조 설계 및 재사용 가능한 구성 구현<br/>
   • <Strong>상태 관리</Strong>: useState, useEffect, useReducer, useContext 과 같은 Hook을 활용한 효율적인 상태 관리 구현<br/>
@@ -68,7 +68,7 @@
 ---
 
 ### 🌐 Back-End
-<details>
+<details open>
   <summary><img src="https://img.shields.io/badge/Java 11-007396?style=for-the-badge&logo=openjdk&logoColor=white" /></summary>
    • <Strong>실제 서비스 운영을 위한 개발환경 구축</Strong>: JDK 및 Eclipse IDE를 활용해 효율적인 빌드·배포 환경을 구성하고 문제 발생 시 직접 관리<br/>
    • <Strong>OOP 기반의 유저/예약 기능 설계</Strong>: 클래스 분리와 책임 중심 구조로 회원·예약 기능을 안정적으로 구현하며 유지보수 용이성 확보<br/>
