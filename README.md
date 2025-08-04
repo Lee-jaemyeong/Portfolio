@@ -5,9 +5,28 @@
 ---
 
 ## 🧑‍💻 About Me
-- 👨‍💻 꾸준히 개발하며 배우고 성장하는 **개발자**입니다.
-- 🐾 사용자를 위한 **실용적인 서비스**를 만드는 데 관심이 있습니다.
-- ✈️ 프로젝트로 여행, SNS, 챌린지 기반 플랫폼 등을 만들었습니다.
+
+**“문제를 풀며 사용자와 소통하는 개발자”**
+
+현장 경험으로 다져진 책임감,  
+8시간 이상 몰입하며 성장한 부트캠프,  
+그리고 세 번의 실전 프로젝트를 통해  
+저는 단순히 기능을 만드는 개발자가 아닌  
+**문제를 구조적으로 해결하는 개발자**로 성장했습니다.
+
+### 💡 기술은 도구, CS는 무기
+- **자료구조와 알고리즘**으로 효율을 설계하고  
+- **운영체제와 네트워크**로 안정성과 확장성을 확보하며  
+- **데이터베이스와 보안**으로 신뢰를 구축합니다.
+
+### 🧠 핵심 역량
+- Java/Spring 기반 백엔드 + React 프론트엔드 풀스택 개발  
+- RESTful API, JWT 인증, 결제 API 등 실무형 기능 구현  
+- Git 협업, CI/CD, AWS 배포까지 서비스 전 주기 경험
+
+> 기술은 배울 수 있지만,  
+> **끈기와 문제 해결력은 경험으로 증명됩니다.**  
+> 저는 그 증명을 끝까지 해내는 개발자입니다.
 
 ---
 
@@ -17,10 +36,11 @@
 
 ---
 
-## 💡 Tech Stack
+## 💡 Tech Stack 
+> 클릭시 내용 확인 가능합니다.
 
 ### 🌐 Front-End
-<details>
+<details open>
   <summary><img src="https://img.shields.io/badge/React 18.3.1-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></summary>
   • <Strong>컴포넌트 기반 설계</Strong>: React를 활용한 UI 컴포넌트 구조 설계 및 재사용 가능한 구성 구현<br/>
   • <Strong>상태 관리</Strong>: useState, useEffect, useReducer, useContext 과 같은 Hook을 활용한 효율적인 상태 관리 구현<br/>
@@ -49,7 +69,7 @@
 ---
 
 ### 🌐 Back-End
-<details>
+<details open>
   <summary><img src="https://img.shields.io/badge/Java 11-007396?style=for-the-badge&logo=openjdk&logoColor=white" /></summary>
    • <Strong>실제 서비스 운영을 위한 개발환경 구축</Strong>: JDK 및 Eclipse IDE를 활용해 효율적인 빌드·배포 환경을 구성하고 문제 발생 시 직접 관리<br/>
    • <Strong>OOP 기반의 유저/예약 기능 설계</Strong>: 클래스 분리와 책임 중심 구조로 회원·예약 기능을 안정적으로 구현하며 유지보수 용이성 확보<br/>
